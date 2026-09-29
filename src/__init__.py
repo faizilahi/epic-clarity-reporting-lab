@@ -1,1 +1,1 @@
-"""Educational Clarity-style reporting on synthetic relational extracts."""
+"""Clarity night-extract service (synthetic portfolio)."""
